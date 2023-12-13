@@ -1,0 +1,16 @@
+{
+    "name": "guilherme.muller2/php-orientado-aobjetos",
+    "autoload": {
+        "psr-4": {
+            "GuilhermeMuller2\\PhpOrientadoAobjetos\\": "src/",
+            "app\\":"app"
+        }
+    },
+    "authors": [
+        {
+            "name": "PortadordeCNPJ",
+            "email": "guilhermedesouzamuller@gmail.com"
+        }
+    ],
+    "require": {}
+}
