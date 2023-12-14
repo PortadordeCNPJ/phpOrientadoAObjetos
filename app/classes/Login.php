@@ -11,6 +11,7 @@ class Login
 
     public function auth()
     {
-        return 'O meu email é ' . $this->email . 'e minha senha é ' . $this->password;
+        //Esse é o método e o que ele vai fazer estará dentro destas chaves
+        return 'O meu email é ' . $this->email . ' e minha senha é ' . $this->password;
     }
 }
