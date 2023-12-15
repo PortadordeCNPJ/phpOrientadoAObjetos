@@ -4,7 +4,10 @@
         "psr-4": {
             "GuilhermeMuller2\\PhpOrientadoAobjetos\\": "src/",
             "app\\":"app"
-        }
+        },
+        "files": [
+            "helpers/functions.php"
+        ]
     },
     "authors": [
         {
