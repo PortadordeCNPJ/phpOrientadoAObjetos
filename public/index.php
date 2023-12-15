@@ -12,7 +12,7 @@ $login = new Login;
 $crud = new Crud;
 $user = new User;
 
-echo helper();
+// echo helper();
 
 echo $user->teste();
 //desta forma são chamadas as propriedades, para assim dar um valor a elas
