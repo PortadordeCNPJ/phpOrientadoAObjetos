@@ -16,8 +16,7 @@ class Crud
 
     public function delete() 
     {
-        var_dump($this->read());
-
+        return  'TESTE DELETANDO SUA ALMA';
     }
 
 }
